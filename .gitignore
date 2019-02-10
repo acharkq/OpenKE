@@ -139,3 +139,6 @@ venv.bak/
 # genereted files
 checkpoint
 result
+
+# for ide
+.idea
